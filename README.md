@@ -15,7 +15,7 @@ from modelscope import snapshot_download
 
 model_dir = snapshot_download('fangxianxing/Newyear_Style')
 🔗 Git模型下载
-如果你更倾向于使用Git来下载模型，可以使用以下命令：
+如果你更倾向于使用Git来下载模型，便可以使用以下命令：
 git clone https://www.modelscope.cn/fangxianxing/Newyear_Style.git
 
 📊 数据集下载
