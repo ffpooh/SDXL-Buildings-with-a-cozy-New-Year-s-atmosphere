@@ -10,7 +10,7 @@
 ```bash
 pip install modelscope
 🚀 SDK模型下载
-使用ModelScope SDK下载模型：
+使用ModelScope SDK来下载模型：
 from modelscope import snapshot_download
 
 model_dir = snapshot_download('fangxianxing/Newyear_Style')
