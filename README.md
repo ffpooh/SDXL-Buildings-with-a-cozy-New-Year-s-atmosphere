@@ -7,7 +7,7 @@
 
 首先，确保你已经安装了ModelScope。如果没有，可以通过以下命令安装：
 
-```bash
+``` bash
 pip install modelscope
 🚀 SDK模型下载
 使用ModelScope SDK来下载模型：
